@@ -1,24 +1,8 @@
 # weather-app
 
-## Project setup
-```
-npm install
-```
+With this app you can check the weather of the whole world.
+This is possible by using the API Open Weather Map. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![warm](https://user-images.githubusercontent.com/69602254/163056328-3d90d7b1-de64-4827-b92e-798bbb560ade.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![cold](https://user-images.githubusercontent.com/69602254/163056300-f651c2ad-8b62-4904-aa3f-9ba1467fb264.png)
